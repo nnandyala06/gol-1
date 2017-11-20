@@ -116,7 +116,6 @@
               <path>/${project.build.finalName}</path>
            </configuration>
         </plugin>
-            </plugin>
 
             <plugin>
                 <groupId>org.easyb</groupId>
